@@ -1,0 +1,3 @@
+websocketRequest: "wss://ascendex.com/0/api/pro/v1/stream"
+ch: "bbo:BTC/USDT"
+op: "sub"
